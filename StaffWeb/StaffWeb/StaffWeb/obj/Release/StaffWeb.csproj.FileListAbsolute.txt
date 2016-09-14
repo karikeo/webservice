@@ -1,0 +1,12 @@
+F:\Freelancer\Staff\StaffWeb\StaffWeb\bin\StaffWeb.dll.config
+F:\Freelancer\Staff\StaffWeb\StaffWeb\bin\StaffWeb.dll
+F:\Freelancer\Staff\StaffWeb\StaffWeb\bin\StaffWeb.pdb
+F:\Freelancer\Staff\StaffWeb\StaffWeb\obj\Release\StaffWeb.csprojResolveAssemblyReference.cache
+F:\Freelancer\Staff\StaffWeb\StaffWeb\obj\Release\StaffWeb.dll
+F:\Freelancer\Staff\StaffWeb\StaffWeb\obj\Release\StaffWeb.pdb
+M:\StaffApp\StaffWeb\StaffWeb\bin\StaffWeb.dll.config
+M:\StaffApp\StaffWeb\StaffWeb\bin\StaffWeb.dll
+M:\StaffApp\StaffWeb\StaffWeb\bin\StaffWeb.pdb
+M:\StaffApp\StaffWeb\StaffWeb\obj\Release\StaffWeb.csprojResolveAssemblyReference.cache
+M:\StaffApp\StaffWeb\StaffWeb\obj\Release\StaffWeb.dll
+M:\StaffApp\StaffWeb\StaffWeb\obj\Release\StaffWeb.pdb

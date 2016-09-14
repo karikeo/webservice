@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>M:\StaffApp\StaffWeb\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DataAccess.dll">
+      <publishTime>12/16/2014 16:47:08</publishTime>
+    </File>
+    <File Include="bin/StaffWeb.dll">
+      <publishTime>05/19/2016 02:15:20</publishTime>
+    </File>
+    <File Include="bin/StaffWeb.pdb">
+      <publishTime>05/18/2016 16:49:00</publishTime>
+    </File>
+    <File Include="category.aspx">
+      <publishTime>01/05/2016 01:32:53</publishTime>
+    </File>
+    <File Include="detailcounter.aspx">
+      <publishTime>05/10/2016 09:09:34</publishTime>
+    </File>
+    <File Include="logevent.aspx">
+      <publishTime>02/19/2016 15:09:52</publishTime>
+    </File>
+    <File Include="logfile.aspx">
+      <publishTime>04/22/2016 12:54:16</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>01/06/2016 08:16:47</publishTime>
+    </File>
+    <File Include="machine.aspx">
+      <publishTime>05/10/2016 06:31:01</publishTime>
+    </File>
+    <File Include="posttask.aspx">
+      <publishTime>01/09/2016 08:36:06</publishTime>
+    </File>
+    <File Include="posttintask.aspx">
+      <publishTime>02/19/2016 09:04:10</publishTime>
+    </File>
+    <File Include="producto.aspx">
+      <publishTime>01/31/2016 08:47:23</publishTime>
+    </File>
+    <File Include="ProductoAllRead.aspx">
+      <publishTime>02/16/2016 08:39:00</publishTime>
+    </File>
+    <File Include="task.aspx">
+      <publishTime>01/06/2016 09:10:38</publishTime>
+    </File>
+    <File Include="uploadfile.aspx">
+      <publishTime>01/10/2016 11:21:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/18/2016 16:48:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+16:44:17 ===> logevent err: 질의오류:insert into [log_event](userid, datetime, description, latitude, longitude, taskid) values (@userid, @datetime, @description, @latitude, @longitude, @taskid) The parameterized query '(@userid nvarchar(4000),@datetime nvarchar(4000),@description nv' expects the parameter '@userid', which was not supplied.
+16:44:17 ===>    at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues, Boolean bReturnID)
+   at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues)
+   at StaffWeb.logevent.Page_Load(Object sender, EventArgs e) in f:\Freelancer\Staff\StaffWeb\StaffWeb\logevent.aspx.cs:line 29
+16:44:58 ===> logevent err: 질의오류:insert into [log_event](userid, datetime, description, latitude, longitude, taskid) values (@userid, @datetime, @description, @latitude, @longitude, @taskid) The parameterized query '(@userid nvarchar(4000),@datetime nvarchar(4000),@description nv' expects the parameter '@userid', which was not supplied.
+16:44:58 ===>    at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues, Boolean bReturnID)
+   at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues)
+   at StaffWeb.logevent.Page_Load(Object sender, EventArgs e) in f:\Freelancer\Staff\StaffWeb\StaffWeb\logevent.aspx.cs:line 29
+16:46:32 ===> logevent err: 질의오류:insert into [log_event](userid, datetime, description, latitude, longitude, taskid) values (@userid, @datetime, @description, @latitude, @longitude, @taskid) The parameterized query '(@userid nvarchar(4000),@datetime nvarchar(4000),@description nv' expects the parameter '@userid', which was not supplied.
+16:46:32 ===>    at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues, Boolean bReturnID)
+   at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues)
+   at StaffWeb.logevent.Page_Load(Object sender, EventArgs e) in f:\Freelancer\Staff\StaffWeb\StaffWeb\logevent.aspx.cs:line 29
+16:47:26 ===> logevent params: , , , , , 
+16:47:27 ===> logevent err: 질의오류:insert into [log_event](userid, datetime, description, latitude, longitude, taskid) values (@userid, @datetime, @description, @latitude, @longitude, @taskid) The parameterized query '(@userid nvarchar(4000),@datetime nvarchar(4000),@description nv' expects the parameter '@userid', which was not supplied.
+16:47:27 ===>    at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues, Boolean bReturnID)
+   at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues)
+   at StaffWeb.logevent.Page_Load(Object sender, EventArgs e) in m:\StaffApp\StaffWeb\StaffWeb\logevent.aspx.cs:line 31
+16:47:40 ===> logevent params: , , , , , 
+16:47:43 ===> logevent err: 질의오류:insert into [log_event](userid, datetime, description, latitude, longitude, taskid) values (@userid, @datetime, @description, @latitude, @longitude, @taskid) The parameterized query '(@userid nvarchar(4000),@datetime nvarchar(4000),@description nv' expects the parameter '@userid', which was not supplied.
+16:47:43 ===>    at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues, Boolean bReturnID)
+   at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues)
+   at StaffWeb.logevent.Page_Load(Object sender, EventArgs e) in m:\StaffApp\StaffWeb\StaffWeb\logevent.aspx.cs:line 31
+16:53:13 ===> logevent params: , , , , , 
+16:53:27 ===> logevent err: 질의오류:insert into [log_event](userid, datetime, description, latitude, longitude, taskid) values (@userid, @datetime, @description, @latitude, @longitude, @taskid) The parameterized query '(@userid nvarchar(4000),@datetime nvarchar(4000),@description nv' expects the parameter '@userid', which was not supplied.
+16:53:27 ===>    at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues, Boolean bReturnID)
+   at DataAccess.MSSqlAccess.RunInsertQuery(String strParamQuery, String[] strParamNames, Object[] paramValues)
+   at StaffWeb.logevent.Page_Load(Object sender, EventArgs e) in m:\StaffApp\StaffWeb\StaffWeb\logevent.aspx.cs:line 31

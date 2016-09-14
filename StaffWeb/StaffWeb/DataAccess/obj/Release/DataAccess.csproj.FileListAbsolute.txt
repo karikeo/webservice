@@ -1,0 +1,15 @@
+M:\토토일본\소스\TotoBet\DataAccess\bin\Release\DataAccess.dll
+M:\토토일본\소스\TotoBet\DataAccess\bin\Release\DataAccess.pdb
+M:\토토일본\소스\TotoBet\DataAccess\obj\Release\ResolveAssemblyReference.cache
+M:\토토일본\소스\TotoBet\DataAccess\obj\Release\DataAccess.dll
+M:\토토일본\소스\TotoBet\DataAccess\obj\Release\DataAccess.pdb
+M:\토토(JSUK)\소스\TotoJSuk\DataAccess\bin\Release\DataAccess.dll
+M:\토토(JSUK)\소스\TotoJSuk\DataAccess\bin\Release\DataAccess.pdb
+M:\토토(JSUK)\소스\TotoJSuk\DataAccess\obj\Release\ResolveAssemblyReference.cache
+M:\토토(JSUK)\소스\TotoJSuk\DataAccess\obj\Release\DataAccess.dll
+M:\토토(JSUK)\소스\TotoJSuk\DataAccess\obj\Release\DataAccess.pdb
+M:\토토(HIT.NET)\소스\BoomBox\DataAccess\bin\Release\DataAccess.dll
+M:\토토(HIT.NET)\소스\BoomBox\DataAccess\bin\Release\DataAccess.pdb
+M:\토토(HIT.NET)\소스\BoomBox\DataAccess\obj\Release\ResolveAssemblyReference.cache
+M:\토토(HIT.NET)\소스\BoomBox\DataAccess\obj\Release\DataAccess.dll
+M:\토토(HIT.NET)\소스\BoomBox\DataAccess\obj\Release\DataAccess.pdb

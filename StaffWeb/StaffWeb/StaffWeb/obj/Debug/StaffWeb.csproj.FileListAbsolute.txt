@@ -1,0 +1,28 @@
+c:\users\jimmy\documents\visual studio 2013\Projects\StaffWeb\StaffWeb\obj\Debug\StaffWeb.csprojResolveAssemblyReference.cache
+c:\users\jimmy\documents\visual studio 2013\Projects\StaffWeb\StaffWeb\bin\StaffWeb.dll.config
+c:\users\jimmy\documents\visual studio 2013\Projects\StaffWeb\StaffWeb\bin\StaffWeb.dll
+c:\users\jimmy\documents\visual studio 2013\Projects\StaffWeb\StaffWeb\bin\StaffWeb.pdb
+c:\users\jimmy\documents\visual studio 2013\Projects\StaffWeb\StaffWeb\obj\Debug\StaffWeb.dll
+c:\users\jimmy\documents\visual studio 2013\Projects\StaffWeb\StaffWeb\obj\Debug\StaffWeb.pdb
+F:\Freelancer\Staff\StaffWeb\StaffWeb\bin\StaffWeb.dll.config
+F:\Freelancer\Staff\StaffWeb\StaffWeb\bin\StaffWeb.dll
+F:\Freelancer\Staff\StaffWeb\StaffWeb\bin\StaffWeb.pdb
+F:\Freelancer\Staff\StaffWeb\StaffWeb\obj\Debug\StaffWeb.dll
+F:\Freelancer\Staff\StaffWeb\StaffWeb\obj\Debug\StaffWeb.pdb
+F:\Freelancer\Staff\StaffWeb\StaffWeb\obj\Debug\StaffWeb.csprojResolveAssemblyReference.cache
+M:\StaffApp\StaffWeb\StaffWeb\bin\StaffWeb.dll.config
+M:\StaffApp\StaffWeb\StaffWeb\bin\StaffWeb.dll
+M:\StaffApp\StaffWeb\StaffWeb\bin\StaffWeb.pdb
+M:\StaffApp\StaffWeb\StaffWeb\obj\Debug\StaffWeb.dll
+M:\StaffApp\StaffWeb\StaffWeb\obj\Debug\StaffWeb.pdb
+M:\StaffApp\StaffWeb\StaffWeb\obj\Debug\StaffWeb.csprojResolveAssemblyReference.cache
+M:\StaffApp\StaffWeb\StaffWeb\bin\DataAccess.dll
+M:\StaffApp\StaffWeb\StaffWeb\bin\DataAccess.pdb
+F:\Freelancer\Staff\2016-06-10\StaffWeb\StaffWeb\bin\StaffWeb.dll.config
+F:\Freelancer\Staff\2016-06-10\StaffWeb\StaffWeb\bin\StaffWeb.dll
+F:\Freelancer\Staff\2016-06-10\StaffWeb\StaffWeb\bin\StaffWeb.pdb
+F:\Freelancer\Staff\2016-06-10\StaffWeb\StaffWeb\bin\DataAccess.dll
+F:\Freelancer\Staff\2016-06-10\StaffWeb\StaffWeb\bin\DataAccess.pdb
+F:\Freelancer\Staff\2016-06-10\StaffWeb\StaffWeb\obj\Debug\StaffWeb.csprojResolveAssemblyReference.cache
+F:\Freelancer\Staff\2016-06-10\StaffWeb\StaffWeb\obj\Debug\StaffWeb.dll
+F:\Freelancer\Staff\2016-06-10\StaffWeb\StaffWeb\obj\Debug\StaffWeb.pdb
